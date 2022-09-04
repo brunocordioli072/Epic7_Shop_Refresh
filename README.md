@@ -15,8 +15,6 @@ pip install -r requirements.txt
 
 ## Usage
 
-Needs to be used in a 1080p screen
-
 ```bash
 adb start-server
 
